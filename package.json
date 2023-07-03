@@ -1,12 +1,12 @@
 {
-  "name": "react-native-image-cropview",
+  "name": "react-native-image-cropview-content",
   "version": "1.0.0",
   "description": "",
   "homepage": "",
   "main": "lib/index.js",
   "main_local": "src/index.tsx",
   "types": "lib/index.d.ts",
-  "author": "Cristian Tomescu <cristian.tomescu07@gmail.com>",
+  "author": "Keiso Team-i <team-i@keiso.co.jp>",
   "license": "MIT",
   "files": [
     "lib"
